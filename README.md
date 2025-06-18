@@ -64,6 +64,7 @@ This is a curated list of AI-powered developer tools. These tools leverage AI to
 ### IDE extensions
 
 - [GitHub Copilot](https://github.com/features/copilot) — A VS Code extension with chat, pull request text generation, and unit test generation.
+- [dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/) — an intelligent SQL AI tool that helps you generate, optimize, and fix queries faster. An AI assistant is available in all dbForge IDEs and most other tools.
 - [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev) — Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
 - [Refact AI](https://refact.ai/) [Source](https://github.com/smallcloudai/refact) — Open source assistant with chat, completion, refactoring, and codebase-specific fine-tuning. Extensions for VS Code and JetBrains.
 - [Continue](https://continue.dev/) — VS Code extension with chat, refactor, and code generation. Edits multiple files and runs commands on your behalf.
